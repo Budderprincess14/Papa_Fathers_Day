@@ -29,11 +29,12 @@
 
 html { 
    padding: 0, 20px, 20px, 20px; 
-   background: rgb(214,13,13); 
-   background: linear-gradient(0deg, rgba(214,13,13,1) 0%, rgba(232,87,147,1) 50%, rgba(255,255,255,1) 100%); 
+   background: rgb(44,60,85);
+   background: radial-gradient(circle, rgba(44,60,85,1) 25%, rgba(47,67,94,1) 50%, rgba(72,114,162,1) 75%);
    height: 100%; 
    font-size: 12px; 
    font-family: 'Montserrat Alternates', sans-serif;
+   font-color: rgb(145,166,186);
   } 
 
 
