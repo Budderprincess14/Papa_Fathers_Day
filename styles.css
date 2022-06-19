@@ -55,7 +55,7 @@ html {
  p { 
 
    font-style: normal; 
-   font-weight: 400; 
+   font-weight: 300; 
    text-align: left; 
   } 
   
@@ -72,5 +72,4 @@ html {
  .sig2 { 
    text-align: right; 
    font-style: italic; 
-
   }
